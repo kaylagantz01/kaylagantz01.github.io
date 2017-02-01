@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <meta charset="utf-8">
+   <title> CAKE DECORATING </title>
+   <style>
+
+body {
+	background-color: #faf2e4;
+	margin: 0 15%;
+	font-family: sans-serif;
+	}
+
+h1 {
+	text-align: center;
+	font-family: serif;
+	font-weight: normal;
+	text-transform: uppercase;
+	border-bottom: 1px solid #57b1dc;
+	margin-top: 30px;
+}
+
+h2 {
+	color: #d1633c;
+	font-size: 1em;
+}
+
+   </style>
+</head>
+
+<body>
+<h1><img src="file://C:/Users/Kayla/Pictures/cake purple.jpg" width="288" height="175" alt="" title="" /></h1>
+
+<h2>Facts about cake decorating</h2>
+<p>1. In Roman times, eggs and butter were often added to basic bread to give a consistency that we would recognize as cake-like, and honey was used as a sweetener. The distinction between Roman concepts of cake and bread was therefore very blurred.</p>
+<p1> 2.The world’s largest wedding cake weighed 15,032 lb<p1/>
+<p> 3. January 27th is National Chocolate Cake Day.<p/>
+
+
+</body>
+
+</html>
